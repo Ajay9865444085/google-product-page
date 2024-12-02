@@ -1,0 +1,43 @@
+   
+nav {
+    background-color: white;
+    padding: 15px; 
+    display: flex;
+   
+  }
+  
+  
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding-left: 500px;
+    padding-top: 1%;
+    display: flex;
+    
+  }
+  .create-account{
+    margin-left: 300px;
+  }
+  .create-account link{
+    background-color: white; /* Green background color */
+    color:blue;
+    padding: 10px 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    border-color: blue;
+    cursor: pointer;
+    font-size: 14px;
+  }
+  
+  li {
+   
+    margin-right: 30px;
+  }
+  
+  a {
+    text-decoration: none;
+    color:#00000075;
+    font-weight:normal;
+  }
+  
+   
